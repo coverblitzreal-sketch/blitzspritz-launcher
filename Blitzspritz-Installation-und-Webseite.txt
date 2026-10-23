@@ -1,0 +1,17 @@
+Blitzspritz Launcher 1.0.2
+
+INSTALLATION
+1. Starte Blitzspritz-Setup-1.0.2.exe unter Windows 10/11 (64-Bit).
+2. Öffne den Blitzspritz Launcher und melde dich mit deinem Microsoft-Konto an.
+3. Wähle ein Profil und starte Minecraft. Beim ersten Start werden die benötigten Spieldateien und Java heruntergeladen.
+
+ÖFFENTLICHE WEBSITE (GitHub Pages)
+Repository: https://github.com/coverblitzreal-sketch/blitzspritz-launcher
+Geplante Website: https://coverblitzreal-sketch.github.io/blitzspritz-launcher/
+Der Website-Download verweist auf den jeweils neuesten GitHub Release-Installer. Der Installer wird als Release-Datei veröffentlicht, nicht im Website-Quellordner.
+
+MODS
+Die Modrinth-Suche lädt echte Mods passend zur Profil-Version und zum Loader. CurseForge-Modpack-ZIPs können im Mod-Bibliothek-Tab importiert werden. Für automatische Downloads der im Modpack-Manifest referenzierten CurseForge-Dateien benötigt die CurseForge-API einen persönlichen API-Schlüssel; er wird in der App verschlüsselt gespeichert. Einzelne .jar-Dateien lassen sich auch ohne Schlüssel importieren.
+
+MINECRAFT-KONTO
+Für Online-Anmeldung und Spielstart wird ein Microsoft-Konto mit Minecraft: Java Edition benötigt.
